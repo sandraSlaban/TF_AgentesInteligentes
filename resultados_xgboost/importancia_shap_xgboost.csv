@@ -1,0 +1,26 @@
+,Media |SHAP|,% del total
+talla_nino_cm,0.47643745,23.597824
+altitud_residencia_m,0.25977173,12.866427
+anemia_materna_actual,0.17945243,8.888233
+edad_meses,0.16674554,8.258864
+departamento,0.120241575,5.9555345
+quintil_riqueza,0.107628584,5.3308163
+sexo_nino,0.10322599,5.1127567
+anios_educacion_madre,0.074257545,3.677957
+anemia_materna_embarazo,0.07062317,3.4979475
+peso_nino_kg,0.06500804,3.2198315
+peso_nacer_kg,0.060932063,3.0179496
+fiebre_reciente,0.059790745,2.9614203
+anio_encuesta,0.057118427,2.829061
+edad_madre,0.048483744,2.4013875
+nivel_pobreza,0.026373306,1.3062631
+z_talla_edad,0.025104024,1.2433958
+desparasitacion,0.021654032,1.0725186
+z_imc_edad,0.020210788,1.0010351
+diarrea_reciente,0.020044431,0.9927955
+z_peso_edad,0.013036144,0.64567685
+peso_madre_kg,0.01163823,0.57643855
+z_peso_talla,0.011122198,0.5508796
+talla_madre_m,0.010080697,0.49929434
+nivel_educativo_madre,0.007785776,0.3856275
+area_residencia,0.0022223399,0.11007192
